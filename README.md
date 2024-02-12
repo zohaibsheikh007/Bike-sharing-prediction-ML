@@ -1,4 +1,4 @@
-# Bike-sharing-prediction-ML
+# Bike-sharing-demand-prediction-ML
 
 
 The introduction of rental bikes in urban cities has significantly improved mobility comfort,
